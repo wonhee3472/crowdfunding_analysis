@@ -10,10 +10,11 @@ As an Excel expert with crowdfunding data in hand, I will be analyzing the data 
 The month that launched the most amount of successful fundraising campaigns for theater was May. On the other hand, May was also the month that had the most amount of failed cases as well although June, July, August, and October all had virtually the same number of failed campaigns launched.
 
 ## Challenges Encountered during this Analysis
-It wasn't intuitive for me that I would have to create new columns like **Parent Category** and **Subcategory**. I think I would have just created a pivot table based on **Category and Subcategory** if I wasn't instructed to do otherwise. However, it makes sense now why it's important to create a new column based on data in another column since there are severeal subcategories such as **plays**, **spaces**, and **musicals** under **theater**. As a result of doing so, I would be able to narrow down the analysis and give more reliable advice to Louise in case she's interested in knowing the result for plays only. 
+It wasn't intuitive for me that I would have to create new columns like _Parent Category_ and _Subcategory_. I think I would have just created a pivot table based on _Category and Subcategory_ if I wasn't instructed to do otherwise. However, it makes sense now why it's important to create a new column based on data in another column since there are severeal subcategories such as _plays_, _spaces_, and _musicals_ under _theater_. As a result of doing so, I would be able to narrow down the analysis and give more reliable advice to Louise in case she's interested in knowing the result for plays only. 
 
-### Analysis of Outcomes Based on Goals
-The campaigns are more likely to succeed in reaching the goal when the goal for fundraising is less than $1,000.
+## Analysis of Outcomes Based on Goals
+![](Resources/Outcome_vs_Goals.png)
+The campaigns are most likely to succeed in reaching the goal when the goal for fundraising is less than $1,000. 
 
 ### Challenges and Difficulties Encountered
 
