@@ -1,13 +1,13 @@
 # Module_1_Challenge (Kickstarting with Excel)
-
-## Overview of Project: Explain the purpose of this analysis
 ![](Resources/plays.jpeg)
-There is an up-and-coming playwright, Louise, who wants to start a crowdfunding campaign to help fund her play, Fever. She's estimating a budget of over $10,000 and is hesitant about jumping into her first fundraising campaign. So, she's asking an Excel expert for some help. 
+## Overview of Project
+Here we have Louise and she is a promising playwright. She recently wrote a play called Fever and she can't wait to put it on the stage. As of now, her budget is about $10,000 but she has no money to fund it. So she has come to me to ask for help so she can figure out how to proceed with her very first fundraising campaign.  
 
-The purpose of this project is to organize, sort, and analyze crowdfunding data to determine whether there are specific factors that make a projects campaign successful. The analysis of the data will give us insights to help Louise plan her own and set it up for success. Using Excel to analyze current site data, we'll help her gain a greater understanding of campaigns from start to finish, and we'll be able to set her campaign to mirror other successful ones in the same category.
+As an Excel expert with crowdfunding data in hand, I will be analyzing the data to see what makes a campaign successful one. And based on the analysis, I will be able to help Louis decide when she should start the campaign as well as how much she should set her budget to be.
 
 ### Analysis of Outcomes Based on Launch Date
-The month that launched the most amount of successful Kicstarter campaigns for theater was May. On the other hand, May was also the month that had the most amount of failed cases as well although June, July, August, and October all had virtually the same number of failed campaigns launched.  
+![](Resources/Theater_Outcomes_vs_Launch.png)
+The month that launched the most amount of successful fundraising campaigns for theater was May. On the other hand, May was also the month that had the most amount of failed cases as well although June, July, August, and October all had virtually the same number of failed campaigns launched.
 
 ### Analysis of Outcomes Based on Goals
 The campaigns are more likely to succeed in reaching the goal when the goal for fundraising is less than $1,000.
