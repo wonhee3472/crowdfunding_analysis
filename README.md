@@ -44,5 +44,9 @@ Let's take Hardin County, Illinois vs. Cook County, Illinois as an example. Acco
 But nowadays, people use online fundraising platforms like GoFundMe so you may argue the campaign was held online and having country as a header is sufficient. However, that's also another missing key information that was not part of this dataset. That is, how were all these campaigns performed? Online? Offline? Or mix of both? It would have been very helpful if such data was included so we could have another layer of factor to do analysis and give advice for Louise to take.
 
 - What are some other possible tables and/or graphs that we could create?
-I think we could create another column for __duration of the campaign__ so we can analyze the relationship between the duration and the outcomes. So I did some research on how to find the difference between two dates and did the analysis.
+
+I think we could create another column for __duration of the campaign__ so we can analyze the relationship between the duration and the outcomes. So I did some research on how to find the difference between two dates and did a simple analysis.
+
 ![](Resources/Campaign_Duration_Outcome.png)
+
+As you can see in the chart and graph above, weeks for **9wk to 10wk** and **10wk to 11wk** are missing since there was no campaign launched with those two durations. Also, there are a few durations that might not be as insightful because of the small sample size. So that leads us to a few durations we should pay attention to and they are arguably these 3 with bigger sample sizes: `2wk to 3wk`, `3wk to 4wk`, and `4wk to 5wk`. And the percentage of the successful campaigns for each duration is relatively high (__79%__,__78%__, and __65%__ respectively). According to these numbers, we could probably advise Louise to hold her campaign for somewhere between 2 weeks to 5 weeks. 
