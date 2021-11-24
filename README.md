@@ -50,3 +50,7 @@ I think we could create another column for __duration of the campaign__ so we ca
 ![](Resources/Campaign_Duration_Outcome.png)
 
 As you can see in the chart and graph above, weeks for **9wk to 10wk** and **10wk to 11wk** are missing since there was no campaign launched with those two durations. Also, there are a few durations that might not be as insightful because of the small sample size. So that leads us to a few durations we should pay attention to and they are arguably these 3 with bigger sample sizes: `2wk to 3wk`, `3wk to 4wk`, and `4wk to 5wk`. And the percentage of the successful campaigns for each duration is relatively high (__79%__,__78%__, and __65%__ respectively). According to these numbers, we could probably advise Louise to hold her campaign for somewhere between 2 weeks to 5 weeks. 
+
+## Work Citations
+[Image for Title](https://www.kidok.com/news/photo/202103/210431_60023_1914.jpg)
+[2020 Census Redistricting dataset](https://www.illinois-demographics.com/counties_by_population)
