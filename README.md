@@ -1,4 +1,4 @@
-# Module_1_Challenge (Kickstarting with Excel)
+# Crowdfunding Analysis Project
 ![](Resources/plays.jpeg)
 
 ## Overview of Project
